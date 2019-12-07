@@ -5,7 +5,7 @@ Ch :- @TshAkETeam #1
 */
 ob_start();
 $API_KEY = '1060156933:AAGAV9Ph_nMVXgF6ByQMRn_CVquFwyZsqe0'; #توكن البوت
-$chj = "php88";#معرف قناتك الي يشترك بيه العضو
+$chj = "php88"; ###معرف قناتك الي يشترك بيه العضو
 $sudo = array(175279237,2,3);# ايدي المطورين
 //////////////////////
 define('API_KEY',$API_KEY);
